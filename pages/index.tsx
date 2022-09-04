@@ -35,6 +35,14 @@ const Home: NextPage = () => {
       <footer className="mt-[9.375rem] px-4 sm:px-[6.25rem]">
         <Footer />
       </footer>
+      <a
+        href="http://huaiyukhaw.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-2 right-2 rounded-lg bg-black p-3 py-1.5 text-sm font-medium text-white drop-shadow-default hover:bg-gray-800 hover:drop-shadow-darker"
+      >
+        Made by <span className="font-bold">@huaiyukhaw</span>
+      </a>
     </div>
   );
 };
