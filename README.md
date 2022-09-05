@@ -4,7 +4,7 @@ Tools: Next.js, TailwindCSS, Figma
 
 View here: https://tailwindcss-saas.vercel.app
 
-Source of Figma files: https://uifry.com/
+[Figma file](saas-platform-landing-page.fig) (with slight modification from [source](https://uifry.com/)
 
 ![Landing page presentation](presentation.jpg)
 ![Landing page presentation 1](presentation-1.jpg)
