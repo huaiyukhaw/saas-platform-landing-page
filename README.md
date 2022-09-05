@@ -1,6 +1,8 @@
-This is a landing page clone of SaaS platform.
+This is a landing page clone.
 
 Tools: Next.js, TailwindCSS, Figma
+
+View here: https://tailwindcss-saas.vercel.app
 
 Source of Figma files: https://uifry.com/
 
